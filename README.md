@@ -3,9 +3,6 @@
 
 This is a simple time tracking application built using React.
 
-## Project Live 🔗 Link
-- ### Firebase Deployed Link: 
-    - [Click Here](https://timer-app-2185b.web.app)
 
 ## Features
 ### Timer section: 
